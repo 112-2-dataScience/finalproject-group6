@@ -9,8 +9,8 @@ Given the increasing prevalence and complexity of e-commerce fraud, our objectiv
 |蘇芷儀|經濟三|110208040|團隊中的吉祥物🦒，負責增進團隊氣氛| 
 |賴威博|資科碩一|112753101|團隊的中流砥柱，一個人打十個|
 |藍璟誠|資管四|109306059|團隊的中流砥柱，一個人打十個|
-|劉育佑|資科碩二|111753145|團隊的中流砥柱，一個人打十個|
-|趙駖翰|地政土管四|109207343|團隊的中流砥柱，一個人打十個|
+|劉育佑|資科碩二|111753145|Data Over/Undersampling、建立模型(Decision Tree、Random Forest、Logistic Regression)、特徵篩選(Features Selection)|
+|趙駖翰|地政土管四|109207343|Data Over/Undersampling、建立模型(KNN、SVM、XGBoost)、、特徵篩選(Features Selection)、XGBoost - Grid Search|
 
 ## Quick start
 Please provide an example command or a few commands to reproduce your analysis, such as the following R script:
