@@ -53,7 +53,11 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 * How do you perform training and evaluation?
   * Given the original dataset provides two distinct files (one large and one small), we designated the larger file as the training dataset and the smaller file as the testing dataset. Consequently, we did not employ cross-validation or a train-test split approach. This method was chosen to leverage the pre-existing division of data for a straightforward and efficient evaluation process.
 * What is a null model for comparison?
-  * 因為是分類問題
+  * In the context of our classification problem, the null model serves as a reference point for evaluating the performance of more complex models. In our case, the null model predicts the class with the highest proportion in the entire dataset. Given that non-fraudulent transactions constitute 95% of the data, while fraudulent ones make up 5%, the null model simply predicts non-fraudulent for all instances. Consequently, the null model achieves an accuracy of approximately 0.95.
+
+After undersampling, where both classes are balanced to represent 50% of the data, the null model's accuracy drops to around 0.5, as it would now randomly predict either class with equal probability.
+
+
 
 ### results
 * What is your performance?
