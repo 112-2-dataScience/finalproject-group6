@@ -59,7 +59,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 * What is your performance?
   * [Final Result（Google sheet link）](https://docs.google.com/spreadsheets/d/1NzNS6J4QpVot9OWKX1zGUxVTsgLjaOZDEASVQHR6S6E/edit?usp=sharing)
   * ![Result Chart](results/image/Final_Result_all_model.png)
-  * ![image](results/image/models comparison_3.png)
+  * ![image]([results/image/models comparison_3.png](https://github.com/112-2-dataScience/finalproject-group6/blob/main/results/image/models%20comparison_3.png))
   * [Result PDF](results/DS_Final_result.pdf)
 * Is the improvement significant?
   * After undersampling : Yes. After performing undersampling on the data, we observed a significant reduction in model training time due to the decreased data volume, which made the training process more efficient. Additionally, there was a notable improvement in the specificity metric, indicating a marked enhancement in the model's ability to accurately predict fraudulent cases. Specifically, the increase in specificity suggests that the model is better at minimizing false positives (i.e., incorrectly classifying legitimate transactions as fraudulent) while more accurately detecting actual fraudulent transactions. This improvement is crucial for effectively preventing fraud and ensuring transaction security.
