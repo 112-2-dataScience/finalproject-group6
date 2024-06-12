@@ -19,7 +19,6 @@ kknn_workflow <-
 
 fitted_kknn <- fit(kknn_workflow, data = train_df)
 
-# KNN 訓練集效能
 knn_predict_value <- predict(fitted_kknn, train_df, type = "prob")
 knn_predict_value %<>% mutate(`.pred_class` = as.factor(ifelse(.pred_1 > .pred_0, 1, 0)))
 
