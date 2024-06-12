@@ -55,7 +55,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 * Is the improvement significant?
   * After undersampling : Yes. After performing undersampling on the data, we observed a significant reduction in model training time due to the decreased data volume, which made the training process more efficient. Additionally, there was a notable improvement in the specificity metric, indicating a marked enhancement in the model's ability to accurately predict fraudulent cases. Specifically, the increase in specificity suggests that the model is better at minimizing false positives (i.e., incorrectly classifying legitimate transactions as fraudulent) while more accurately detecting actual fraudulent transactions. This improvement is crucial for effectively preventing fraud and ensuring transaction security.
 
-  * Feature Selection : Yes. 
+  * Feature Selection : Yes. After performing feature selection, we discovered that training the model with the top two or three most relevant features achieves a balanced trade-off between accuracy and training time. Including additional features beyond this point resulted in only marginal improvements in accuracy, while significantly increasing the training time. This indicates that a more parsimonious model with fewer features not only maintains a high level of performance but also enhances computational efficiency.
 
 ## References
 * This project uses the following R packages:
