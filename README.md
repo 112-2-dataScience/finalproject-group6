@@ -61,6 +61,8 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   - **[dplyr](https://cran.r-project.org/web/packages/dplyr/index.html)**: A grammar of data manipulation, providing a consistent set of verbs to help you solve the most common data manipulation challenges.
   - **[ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html)**: A system for 'declaratively' creating graphics, based on "The Grammar of Graphics".
   - **[caret](https://cran.r-project.org/web/packages/caret/index.html)**: Classification and regression training, a set of functions that attempt to streamline the process for creating predictive models.
+  - **[patchwork](https://cran.r-project.org/web/packages/patchwork/index.html)**: Combines multiple ggplot2 diagrams for comparison and layout.
+  - **[scales](https://cran.r-project.org/web/packages/scales/index.html)**: Provides extended control over axis scales and labels in ggplot2 diagrams.
   - **[xgboost](https://cran.r-project.org/web/packages/xgboost/index.html)**: Extreme Gradient Boosting, which is an efficient and scalable implementation of gradient boosting framework.
   - **[optparse](https://cran.r-project.org/web/packages/optparse/index.html)**: A command line option parser to be used with Rscript to write "#!" shebang scripts that accept short and long flag/options.
   - **[tidyr](https://cran.r-project.org/web/packages/tidyr/index.html)**: Tidy Messy Data, providing tools to help you clean your data.
