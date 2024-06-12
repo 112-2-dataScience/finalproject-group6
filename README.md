@@ -29,11 +29,11 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ### data
 * Input
-  * File 1 (Train Data): 
+  * File 1 (檔案太大沒辦法上傳到 github)(Train Data): 
     * Source：[Kaggle](https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions?select=Fraudulent_E-Commerce_Transaction_Data.csv)
     * Format：CSV
     * Size：393 MB
-  * File 2 (Test Data) :
+  * [File 2](data/Fraudulent_E-Commerce_Transaction_Data.csv) (Test Data) :
     * Source : [Kaggle](https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions?select=Fraudulent_E-Commerce_Transaction_Data_2.csv)
     * Format : CSV
     * Size : 6.3 MB
