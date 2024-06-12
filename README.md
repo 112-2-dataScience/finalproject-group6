@@ -22,8 +22,8 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Projects.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424) PLoS Comput Biol 5(7): e1000424.
 
 ### docs
-* Your presentation, 1122_DS-FP_groupID.ppt/pptx/pdf (i.e.,1122_DS-FP_group1.ppt), by **06.13**
-* [PPT](https://www.canva.com/design/DAGGaH_FEX4/opLypQZCkSWLLQa2rPEnHw/view?utm_content=DAGGaH_FEX4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+* Our presentation, 1122_DS-FP_group6.pdf, by **06.13**
+* [Online Link](https://www.canva.com/design/DAGGaH_FEX4/opLypQZCkSWLLQa2rPEnHw/view?utm_content=DAGGaH_FEX4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ### data
 * Input
