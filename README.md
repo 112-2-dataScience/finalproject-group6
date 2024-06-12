@@ -51,7 +51,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
       * XGBoost
       * SVM
 * How do you perform training and evaluation?
-  * Cross-validation, or extra separated data
+  * Given the original dataset provides two distinct files (one large and one small), we designated the larger file as the training dataset and the smaller file as the testing dataset. Consequently, we did not employ cross-validation or a train-test split approach. This method was chosen to leverage the pre-existing division of data for a straightforward and efficient evaluation process.
 * What is a null model for comparison?
   * 因為是分類問題
 
