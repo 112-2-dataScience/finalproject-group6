@@ -30,19 +30,22 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 ### data
 * Input
   * File 1 (Train Data): 
-    * Source：[a link] https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions?select=Fraudulent_E-Commerce_Transaction_Data.csv
+    * Source：[Kaggle] (https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions?select=Fraudulent_E-Commerce_Transaction_Data.csv)
     * Format：CSV
-    * Size：400MB
+    * Size：393 MB
   * File 2 (Test Data) :
-    * Source : https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions?select=Fraudulent_E-Commerce_Transaction_Data_2.csv
-    * Format : 
+    * Source : [Kaggle](https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions?select=Fraudulent_E-Commerce_Transaction_Data_2.csv)
+    * Format : CSV
+    * Size : 6.3 MB
 
 ### code
 * Analysis steps
+    * EDA 
 * Which method or package do you use?
 * How do you perform training and evaluation?
   * Cross-validation, or extra separated data
 * What is a null model for comparison?
+  * 因為是分類問題
 
 ### results
 * What is your performance?
