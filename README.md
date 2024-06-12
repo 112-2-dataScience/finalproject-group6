@@ -52,8 +52,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 * Is the improvement significant?
 
 ## References
-* Packages you use
-  This project uses the following R packages:
+* This project uses the following R packages:
   - **[dplyr](https://cran.r-project.org/web/packages/dplyr/index.html)**: A grammar of data manipulation, providing a consistent set of verbs to help you solve the most common data manipulation challenges.
   - **[ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html)**: A system for 'declaratively' creating graphics, based on "The Grammar of Graphics".
   - **[caret](https://cran.r-project.org/web/packages/caret/index.html)**: Classification and regression training, a set of functions that attempt to streamline the process for creating predictive models.
