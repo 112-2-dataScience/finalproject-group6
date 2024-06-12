@@ -8,6 +8,8 @@ library(tidymodels)
 
 features <- c("Transaction.Amount", "Account.Age.Days", "Transaction.Hour", "Quantity", "Customer.Age")
 train_df$Is.Fraudulent <- as.factor(train_df$Is.Fraudulent)
+test_df <- clean_data(test_df)
+test_df$Is.Fraudulent <- as.factor(test_df$Is.Fraudulent)
 
 overall_training_start_time <- Sys.time()
 f1_vec <- accuracy_vec <- sensitivity_vec <- specificity_vec <- auc_vec <- training_time_vec <- numeric(length(features))
