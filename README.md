@@ -50,7 +50,11 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ### results
 * What is your performance?
+  * [Final Result](https://docs.google.com/spreadsheets/d/1NzNS6J4QpVot9OWKX1zGUxVTsgLjaOZDEASVQHR6S6E/edit?usp=sharing)
+  * ![Result Chart](results/image/Final_Result_all_model.png)
 * Is the improvement significant?
+  * After undersampling : Yes.
+  * Feature Selection : Yes.
 
 ## References
 * This project uses the following R packages:
