@@ -23,7 +23,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ### docs
 * [Our presentation](docs/1122_DS-FP_group6.pdf), by **06.13**
-* [Online Link](https://www.canva.com/design/DAGGaH_FEX4/opLypQZCkSWLLQa2rPEnHw/view?utm_content=DAGGaH_FEX4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+* [Online Link](https://www.canva.com/design/DAGGaH_FEX4/opLypQZCkSWLLQa2rPEnHw/view?utm_content=DAGGaH_FEX4&utm_campaign=designshare&utm_medium=link&utm_source=editor), by **06.13**
 
 ### data
 * Input
