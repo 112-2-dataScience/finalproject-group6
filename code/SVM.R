@@ -22,7 +22,6 @@ fitted_kernlab <- fit(kernlab_workflow, data = train_df)
 svm_predict_value <- predict(fitted_kernlab, train_df, type = "prob")
 svm_predict_value %<>% mutate(`.pred_class` = as.factor(ifelse(.pred_1 > .pred_0, 1, 0)))
 
-
 (ROCit_obj <- rocit(score = svm_predict_value$.pred_1, class = train_df$Is.Fraudulent))
 plot(ROCit_obj)
 
@@ -44,6 +43,7 @@ ggroc <- ggplot(roc_data, aes(x = FPR, y = TPR)) +
 print(ggroc)
 
 caret::confusionMatrix(data = svm_predict_value$.pred_class, reference = train_df$Is.Fraudulent, positive = "0", mode = "everything")
+
 
 test_df <- clean_data(test_df)
 test_df$Is.Fraudulent <- as.factor(test_df$Is.Fraudulent)
