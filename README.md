@@ -33,14 +33,14 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
     * Source：[Kaggle](https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions?select=Fraudulent_E-Commerce_Transaction_Data.csv)
     * Format：CSV
     * Size：393 MB
-  * [File 2](data/Fraudulent_E-Commerce_Transaction_Data.csv) (Test Data) :
+  * [File 2](data/Fraudulent_E-Commerce_Transaction_Data_2.csv) (Test Data) :
     * Source : [Kaggle](https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions?select=Fraudulent_E-Commerce_Transaction_Data_2.csv)
     * Format : CSV
     * Size : 6.3 MB
 
 ### code
 * Analysis steps
-    * EDA 
+    * EDA -> data cleaning & preprocessing -> Model training with Raw data (and test with test data) -> undersampling -> Model training with processed data -> feature selection ->   grid search -> Model Evaluation -> Final Model Selection
 * Which method or package do you use?
 * How do you perform training and evaluation?
   * Cross-validation, or extra separated data
