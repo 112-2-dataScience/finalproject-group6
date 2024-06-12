@@ -42,7 +42,14 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 * Analysis steps
     * EDA &rarr; data cleaning & preprocessing &rarr; Model training with Raw data (and test with test data) &rarr; undersampling &rarr; Model training with processed data &rarr; feature selection &rarr;   grid search &rarr; Model Evaluation &rarr; Final Model Selection
 * Which method or package do you use?
-    * 
+    * Data Processing : undersampling (package: ROSE)
+    * Model we used :
+      * Linear Regression
+      * Dicision Tree
+      * Random Forest
+      * kNN
+      * XGBoost
+      * SVM
 * How do you perform training and evaluation?
   * Cross-validation, or extra separated data
 * What is a null model for comparison?
