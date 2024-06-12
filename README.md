@@ -67,6 +67,13 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ## References
 * This project uses the following R packages:
+  - **[plotly](https://cran.r-project.org/web/packages/plotly/index.html)**: Create interactive, web-based plots via plotly's JavaScript graphing library.
+  - **[kernlab](https://cran.r-project.org/web/packages/kernlab/index.html)**: Kernel-based machine learning methods for classification, regression, clustering, novelty detection, quantile regression, and dimensionality reduction.
+  - **[ROCit](https://cran.r-project.org/web/packages/ROCit/index.html)**: An R package for performance assessment of scoring classifiers through ROC curves.
+  - **[tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html)**: An opinionated collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures.
+  - **[magrittr](https://cran.r-project.org/web/packages/magrittr/index.html)**: Provides a mechanism for chaining commands with a new forward-pipe operator, %>%, and other handy operators.
+  - **[tidymodels](https://cran.r-project.org/web/packages/tidymodels/index.html)**: A collection of packages for modeling and machine learning using tidyverse principles.
+  - **[kknn](https://cran.r-project.org/web/packages/kknn/index.html)**: Weighted k-Nearest Neighbors for classification, regression, and clustering.
   - **[dplyr](https://cran.r-project.org/web/packages/dplyr/index.html)**: A grammar of data manipulation, providing a consistent set of verbs to help you solve the most common data manipulation challenges.
   - **[ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html)**: A system for 'declaratively' creating graphics, based on "The Grammar of Graphics".
   - **[caret](https://cran.r-project.org/web/packages/caret/index.html)**: Classification and regression training, a set of functions that attempt to streamline the process for creating predictive models.
