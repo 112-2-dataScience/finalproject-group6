@@ -29,9 +29,13 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ### data
 * Input
-  * Source
-  * Format
-  * Size
+  * File 1 (Train Data): 
+    * Source：[a link] https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions?select=Fraudulent_E-Commerce_Transaction_Data.csv
+    * Format：CSV
+    * Size：400MB
+  * File 2 (Test Data) :
+    * Source : https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions?select=Fraudulent_E-Commerce_Transaction_Data_2.csv
+    * Format : 
 
 ### code
 * Analysis steps
