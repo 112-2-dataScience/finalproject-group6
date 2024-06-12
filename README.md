@@ -50,10 +50,12 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ### results
 * What is your performance?
-  * [Final Result](https://docs.google.com/spreadsheets/d/1NzNS6J4QpVot9OWKX1zGUxVTsgLjaOZDEASVQHR6S6E/edit?usp=sharing)
+  * [Final Result（Google sheet link）](https://docs.google.com/spreadsheets/d/1NzNS6J4QpVot9OWKX1zGUxVTsgLjaOZDEASVQHR6S6E/edit?usp=sharing)
   * ![Result Chart](results/image/Final_Result_all_model.png)
 * Is the improvement significant?
-  * After undersampling : Yes.
+  * After undersampling : Yes. 在對資料進行下採樣（undersampling）處理後，可觀察到模型訓練時間顯著縮短，這主要是因為資料量的減少使得訓練過程更加高效。此外，模型在 specificty 指標上也有顯著提升，這表示模型在識別詐欺案例方面的準確性得到了明顯改善。具體來說，specificity 的提升表明模型在減少誤報（即將正常交易錯誤分類為詐欺）的同時，能夠更準確地檢測出真正的詐欺交易。這對於電商平台要防止詐欺行為、保障交易安全至關重要。
+
+
   * Feature Selection : Yes.
 
 ## References
