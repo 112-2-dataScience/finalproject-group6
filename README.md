@@ -29,11 +29,11 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ### data
 * Input
-  * File 1 (檔案太大沒辦法上傳到 github)(Train Data): 
+  * Train Data : File 1 (檔案太大沒辦法上傳到 github): 
     * Source：[Kaggle](https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions?select=Fraudulent_E-Commerce_Transaction_Data.csv)
     * Format：CSV
     * Size：393 MB
-  * [File 2](data/Fraudulent_E-Commerce_Transaction_Data_2.csv) (Test Data) :
+  * Test Data : [File 2](data/Fraudulent_E-Commerce_Transaction_Data_2.csv) (Test Data) :
     * Source : [Kaggle](https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions?select=Fraudulent_E-Commerce_Transaction_Data_2.csv)
     * Format : CSV
     * Size : 6.3 MB
@@ -53,10 +53,9 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   * [Final Result（Google sheet link）](https://docs.google.com/spreadsheets/d/1NzNS6J4QpVot9OWKX1zGUxVTsgLjaOZDEASVQHR6S6E/edit?usp=sharing)
   * ![Result Chart](results/image/Final_Result_all_model.png)
 * Is the improvement significant?
-  * After undersampling : Yes. 在對資料進行下採樣（undersampling）處理後，可觀察到模型訓練時間顯著縮短，這主要是因為資料量的減少使得訓練過程更加高效。此外，模型在 specificty 指標上也有顯著提升，這表示模型在識別詐欺案例方面的準確性得到了明顯改善。具體來說，specificity 的提升表明模型在減少誤報（即將正常交易錯誤分類為詐欺）的同時，能夠更準確地檢測出真正的詐欺交易。這對於電商平台要防止詐欺行為、保障交易安全至關重要。
+  * After undersampling : Yes. After performing undersampling on the data, we observed a significant reduction in model training time due to the decreased data volume, which made the training process more efficient. Additionally, there was a notable improvement in the specificity metric, indicating a marked enhancement in the model's ability to accurately predict fraudulent cases. Specifically, the increase in specificity suggests that the model is better at minimizing false positives (i.e., incorrectly classifying legitimate transactions as fraudulent) while more accurately detecting actual fraudulent transactions. This improvement is crucial for effectively preventing fraud and ensuring transaction security.
 
-
-  * Feature Selection : Yes.
+  * Feature Selection : Yes. 
 
 ## References
 * This project uses the following R packages:
