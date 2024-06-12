@@ -8,7 +8,7 @@ Given the increasing prevalence and complexity of e-commerce fraud, our objectiv
 |-|-|-|-|
 |蘇芷儀|經濟三|110208040|團隊中的吉祥物🦒，負責增進團隊氣氛| 
 |賴威博|資科碩一|112753101|EDA相關圖表、Feature相關性分析、開會號招人|
-|藍璟誠|資管四|109306059|團隊的中流砥柱，一個人打十個|
+|藍璟誠|資管四|109306059|數據預處理、異常值替換|
 |劉育佑|資科碩二|111753145|Data Over/Undersampling、建立模型(Decision Tree、Random Forest、Logistic Regression)、特徵篩選(Features Selection)|
 |趙駖翰|地政土管四|109207343|Data Over/Undersampling、建立模型(KNN、SVM、XGBoost)、特徵篩選(Features Selection)、交叉驗證&超參數調整(Grid Search)|
 
