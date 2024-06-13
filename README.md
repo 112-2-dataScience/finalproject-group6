@@ -15,7 +15,6 @@ Given the increasing prevalence and complexity of e-commerce fraud, our objectiv
 ## Quick start
 Please provide an example command or a few commands to reproduce your analysis, such as the following R script:
 ```R
-```R
 Rscript code/xgboost_command.R
 ```
 
