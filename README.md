@@ -119,3 +119,4 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 
 * Related publications
   * Fraud Prediction : [Kaggle連結](https://www.kaggle.com/code/veerpatel6693/fraud-prediction)
+  * 機器學習 - Kernel 函數: [more information](https://chih-sheng-huang821.medium.com/機器學習-kernel-函數-47c94095171)
