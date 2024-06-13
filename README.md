@@ -7,7 +7,7 @@ Given the increasing prevalence and complexity of e-commerce fraud, our objectiv
 |組員|系級|學號|工作分配|
 |-|-|-|-|
 |蘇芷儀|經濟三|110208040|Introduction、EDA相關圖表| 
-|賴威博|資科碩一|112753101|EDA相關圖表、Feature相關性分析、號招開會|
+|賴威博|資科碩一|112753101|EDA相關圖表、Feature相關性分析、號召開會|
 |藍璟誠|資管四|109306059|數據預處理、異常值替換、海報整理製作|
 |劉育佑|資科碩二|111753145|Data Over/Undersampling、建立模型(Decision Tree、Random Forest、Logistic Regression)、特徵篩選(Features Selection)|
 |趙駖翰|地政土管四|109207343|Data Over/Undersampling、建立模型(KNN、SVM、XGBoost)、特徵篩選(Features Selection)、交叉驗證&超參數調整(Grid Search)|
@@ -119,4 +119,7 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 
 * Related publications
   * Fraud Prediction : [Kaggle連結](https://www.kaggle.com/code/veerpatel6693/fraud-prediction)
-  * 機器學習 - Kernel 函數: [more information](https://chih-sheng-huang821.medium.com/機器學習-kernel-函數-47c94095171)
+  * SVM model : [more information](https://chih-sheng-huang821.medium.com/機器學習-kernel-函數-47c94095171)
+  * XGBoost model : [more information](https://medium.com/jameslearningnote/資料分析-機器學習-第5-2講-kaggle機器學習競賽神器xgboost介紹-1c8f55cffcc)
+  * KNN Model : [more information](https://medium.com/@jason8410271027/學習筆記-k近鄰演算法-理論-python實作-73c9bc9251c8)
+  * Undersampling : [more information](https://ithelp.ithome.com.tw/articles/10294614)
