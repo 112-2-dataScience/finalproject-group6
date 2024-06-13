@@ -34,13 +34,13 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
     * Source：[Kaggle](https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions?select=Fraudulent_E-Commerce_Transaction_Data.csv)
     * Format：CSV
     * Size：393 MB
-  * Test Data : [File 2](data/Fraudulent_E-Commerce_Transaction_Data_2.csv) (Test Data) :
+  * Test Data : [File 2](data/Fraudulent_E-Commerce_Transaction_Data_2.csv)
     * Source : [Kaggle](https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions?select=Fraudulent_E-Commerce_Transaction_Data_2.csv)
     * Format : CSV
     * Size : 6.3 MB
-  * Undersampling Train Data : [File 3](https://github.com/112-2-dataScience/finalproject-group6/blob/main/data/Fraudulent_E-Commerce_Transaction_Data_undersampling.csv) (Undersampling Data) :
+  * Undersampling Train Data : [File 3](https://github.com/112-2-dataScience/finalproject-group6/blob/main/data/Fraudulent_E-Commerce_Transaction_Data_undersampling.csv)
     * Format : CSV
-    * Size : 10.9 MB  
+    * Size : 10.4 MB  
 
 ### features
 | Variable               | Description |
