@@ -40,6 +40,26 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
     * Format : CSV
     * Size : 6.3 MB
 
+### features
+| Variable               | Description |
+|------------------------|-------------|
+| **Transaction ID**     | A unique identifier for each transaction. |
+| **Customer ID**        | A unique identifier for each customer. |
+| **Transaction Amount** | The amount of the transaction in the local currency. |
+| **Transaction Date**   | The date when the transaction took place. |
+| **Payment Method**     | The method used for payment (e.g., credit card, PayPal, etc.). |
+| **Product Category**   | The category of the purchased product. |
+| **Quantity**           | The quantity of the purchased product. |
+| **Customer Age**       | The age of the customer at the time of the transaction. |
+| **Customer Location**  | The location (city, state, country) of the customer. |
+| **Device Used**        | The device used for the transaction (e.g., smartphone, tablet). |
+| **IP Address**         | The IP address from which the transaction was made. |
+| **Shipping Address**   | The address to which the purchased product was shipped. |
+| **Billing Address**    | The billing address associated with the payment method. |
+| **Is Fraudulent**      | A binary indicator (0 or 1) indicating whether the transaction is fraudulent. |
+| **Account Age Days**   | The number of days since the customer's account was created. |
+| **Transaction Hour**   | The hour of the day when the transaction took place (24-hour format). |
+
 ### code
 * Analysis steps
     * EDA &rarr; data cleaning & preprocessing &rarr; Model training with Raw data (and test with test data) &rarr; undersampling &rarr; Model training with processed data &rarr; feature selection &rarr;   grid search &rarr; Model Evaluation &rarr; Final Model Selection
