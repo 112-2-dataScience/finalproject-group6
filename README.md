@@ -6,7 +6,7 @@ Given the increasing prevalence and complexity of e-commerce fraud, our objectiv
 ## Contributors
 |組員|系級|學號|工作分配|
 |-|-|-|-|
-|蘇芷儀|經濟三|110208040|團隊中的吉祥物🦒，負責增進團隊氣氛| 
+|蘇芷儀|經濟三|110208040|Introduction、EDA相關圖表| 
 |賴威博|資科碩一|112753101|EDA相關圖表、Feature相關性分析、號招開會|
 |藍璟誠|資管四|109306059|數據預處理、異常值替換、海報整理製作|
 |劉育佑|資科碩二|111753145|Data Over/Undersampling、建立模型(Decision Tree、Random Forest、Logistic Regression)、特徵篩選(Features Selection)|
