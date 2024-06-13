@@ -116,3 +116,4 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   - **[ROSE](https://cran.r-project.org/web/packages/ROSE/index.html)**: Provides functions to deal with binary classification problems in the presence of imbalanced classes.
 
 * Related publications
+  * Fraud Prediction : [Kaggle連結](https://www.kaggle.com/code/veerpatel6693/fraud-prediction)
